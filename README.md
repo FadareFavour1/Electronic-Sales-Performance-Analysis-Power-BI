@@ -83,9 +83,9 @@ The dataset contains electronic product sales transaction records covering multi
  
 | Metric | Value |
 |---|---|
-| Total Sales | $56.24M |
-| Sum of Unit Price | $1.87M |
-| Sum of Price | $4.45M |
+| Total Sales | 56.24M |
+| Sum of Unit Price | 1.87M |
+| Sum of Price | 4.45M |
 | Year-over-Year Growth | 40% |
  
 ---
